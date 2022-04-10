@@ -4,8 +4,11 @@ A cooperative game focused on introducing new students to the campus of UW Madis
 Officially released for purchase at the UW Bookstore!
 
 Artwork by Somi, a.k.a. Dasom Hwang of www.someducation.com
+
 Mechanics and Playtesting by Ben Hurley
+
 Mechanics and Documentation by https://github.com/mcthomas
+
 Level Design, Mechanics and Story by https://github.com/futureforge
 
 https://www.uwbookstore.com/Wisconsin-Badgers/gift-items/Toys-and-Games/Super-Badgers-Game-2072976
