@@ -15,7 +15,7 @@ Mechanics and Playtesting by Ben Hurley
 
 Mechanics and Documentation by https://github.com/mcthomas
 
-Level Design, Mechanics and Story by https://github.com/futureforge
+Level Design, Mechanics and Story by https://github.com/bluemoondeveloping
 
 ## News
 
